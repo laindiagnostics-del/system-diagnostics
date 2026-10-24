@@ -1,4 +1,4 @@
-# Vincent Diagnostics
+# Lain Diagnostics
 
 **Professional Game Tester & Systems Reviewer**
 
